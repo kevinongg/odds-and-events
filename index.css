@@ -1,0 +1,27 @@
+body {
+  padding: 1rem;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+h2 {
+  font-size: 80px;
+}
+
+.input-box {
+  width: 20%;
+  padding: 1rem;
+  border-radius: 10px;
+  border: 1px solid black;
+  min-height: 1rem;
+}
+
+form {
+  font-size: 30px;
+}
+
+button {
+  font-size: 20px;
+}
